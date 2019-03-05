@@ -31,6 +31,7 @@ master服务映射关系：
 ====================
 
 3.版本
+
 master: v1.12.6   https://dl.k8s.io/v1.12.6/kubernetes-server-linux-amd64.tar.gz
 node:   v1.12.6   https://dl.k8s.io/v1.12.6/kubernetes-node-linux-amd64.tar.gz
 client: v1.12.6   https://dl.k8s.io/v1.12.6/kubernetes-client-linux-amd64.tar.gz
