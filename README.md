@@ -38,6 +38,7 @@ etcd:   v3.3.12   https://github.com/etcd-io/etcd/releases/download/v3.3.12/etcd
 cfssl:            https://pkg.cfssl.org/R1.2/cfssl_linux-amd64
 cfssljson         https://pkg.cfssl.org/R1.2/cfssljson_linux-amd64
 cfssl-certinfo    https://pkg.cfssl.org/R1.2/cfssl-certinfo_linux-amd64
+
 ====================
 
 4.配置安装docker
